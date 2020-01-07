@@ -46,7 +46,7 @@
 	// * Domínios
 	switch($_SERVER["SERVER_NAME"]){
 		case "localhost":
-			define("PATH_BASE", "panel");
+			define("PATH_BASE", "site");
 		break;
 	}
 
